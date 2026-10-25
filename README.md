@@ -1,8 +1,7 @@
 ## Luis Brancher
 
-Cloud & DevOps Infrastructure Engineer
+Former audiovisual creative with an engineer’s brain, a student’s anxiety, a mid-sized company’s homelab, and a browser-tab addiction that should be classified as a security vulnerability.
 
-Provisioning AWS infrastructure with Terraform and Ansible.
 Security-aware by background, infrastructure-focused by choice.
 
 ---
